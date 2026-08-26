@@ -1,0 +1,21 @@
+# 元の大容量ノート
+notes/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 仮想環境
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 環境変数・秘密情報
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
